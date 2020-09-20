@@ -151,3 +151,5 @@ public class PageBase {
         wait.until(ExpectedConditions.visibilityOfElementLocated(element));
     }
 }
+
+// End of the pageBase

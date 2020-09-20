@@ -76,3 +76,5 @@ public class Constants {
 	public static final String FILENAME_TXT = "some-file.txt";
 	public static final String UPLOAD_HEADER = "File Uploaded!";
 }	
+
+// Constants class
